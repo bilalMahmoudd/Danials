@@ -1,0 +1,7 @@
+#team{
+   @media (max-width: 768px) {
+      .img-area img {
+        display: inline-block;
+      }
+    }
+}
